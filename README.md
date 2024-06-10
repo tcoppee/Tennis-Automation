@@ -1,6 +1,6 @@
 # Tennis Reservation Automation
 
-Ce projet a pour but de permettre la réservation automatique des terrains de tennis en utilisant un fichier de disponibilités.
+Ce projet a pour but de permettre la réservation automatique des terrains de tennis en utilisant un fichier de disponibilités. Il faut renseigner un maximum de disponibilité, par exemple sur tout le quadrimestre. Le code se lancera à chaque démarrage de l'ordinateur vérifiant automatiquement les disponibilités sur une semaine.
 
 ## Fonctionnement
 Le script permet de réserver automatiquement les terrains de tennis en se basant sur les disponibilités fournies dans un fichier texte. Les disponibilités doivent être au format suivant :
